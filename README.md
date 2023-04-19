@@ -1,1 +1,1 @@
-# lab-training
+# DS Lab Training
